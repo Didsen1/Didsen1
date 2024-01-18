@@ -40,7 +40,11 @@
 
 <h2 align="center">✨ Статистика и достижения:</h2>
 <div align="center">
+<<<<<<< HEAD
   <a href="https://www.codewars.com/users/Didsen11"><img src="https://www.codewars.com/users/Didsen11/badges/large" alt="badge showing rating of Boris Zashliapin on Codewars - an educational community for computer programming"/></a>
+=======
+  <a href="https://www.codewars.com/users/Didsen11"><img src="https://www.codewars.com/users/Didsen11/badges/large" alt="badge showing rating of Artem Tikhanov on Codewars - an educational community for computer programming"/></a>
+>>>>>>> 7be7fee1e2835eb66ec42459f7eae760a5cf1350
   <br>
   <a href="https://www.codewars.com/users/Didsen11">Codewars</a>
 </div>
